@@ -7,9 +7,10 @@ author-email: "setkeh@gmail.com"
 
 tags:
 - "Linux"
+- "Guest post"
 
 categories:
-- article
+- "Tutorials"
 
 level: beginner
 
